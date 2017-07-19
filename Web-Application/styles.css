@@ -1,0 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen+Mono);
+@charset "UTF-8";
+html{
+	background: url(index.jpg) no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+.left{text-align:left;}
+.right{text-align:right;}
+.overlay{
+		width:100%;}
